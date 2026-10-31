@@ -8,7 +8,8 @@
 ## 下载
 
 **[→ 点这里下载最新版](https://github.com/3288132629-ctrl/UNISACR/releases/latest)**
-
+⚠ **压缩包有解压密码，找我要**（QQ 349514356）
+u114514QvQ!CR
 解压后双击 `UniSac.exe`。不需要安装，不需要 .NET。
 
 ---
