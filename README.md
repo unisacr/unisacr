@@ -1,17 +1,39 @@
-[README-GitHub.md](https://github.com/user-attachments/files/34208149/README-GitHub.md)
+[README-GitHub.md](https://github.com/user-attachments/files/34212107/README-GitHub.md)
 # unisac 音乐播放器
 
 > 本地曲库播放器。单文件 exe，解压双击就能用。
 
-作者qq号：3495216356
 ---
 
 ## 下载
 
-**[→ 点这里下载最新版](https://github.com/3288132629-ctrl/UNISACR/releases/latest)**
-⚠ **压缩包有解压密码：u114514QvQ!CR
+**[→ 点这里下载最新版](https://github.com/unisacr/unisacr/releases/latest)**
 
-解压后双击 `UniSac.exe`。。
+⚠ **压缩包有解压密码：u114514QvQ!CR**
+
+解压后双击 `UniSac.exe`。
+
+---
+
+## 它长什么样
+
+![主界面](screenshots/main.jpg)
+
+![全屏歌词](screenshots/lyric-full.jpg)
+
+### 桌面歌词
+
+可以拆成**上下两个独立小窗**，各自拖到任意位置：
+
+![桌面歌词](screenshots/desktop-lyric.jpg)
+
+![桌面歌词 - 双窗](screenshots/desktop-lyric-2.jpg)
+
+### 设置
+
+壁纸、功能区透明度、队列面板、滚动条，都在「背景」这一页调：
+
+![设置 - 背景](screenshots/settings.jpg)
 
 ---
 
@@ -59,12 +81,11 @@
 
 ## 激活（免费）
 
-**完全免费。** 要激活码直接找我要。
+**完全免费。** 要激活码直接找我要（QQ **3495216356**，加好友请备注「激活码」）。
 
 1. 打开程序 →「设置」→ 左侧「关于」
 2. 点「复制机器码」，得到形如 `1GP3-HFMR-7897-3471` 的一串
-3. 发给我（QQ / issue / 邮件 / 群里都行）
-qq号：3495216356
+3. 加我 QQ 发过来（或者在仓库开 issue）
 4. 我把激活码发回来
 5. 「关于」→「激活…」→ 粘贴 → 确定
 
@@ -76,11 +97,13 @@ qq号：3495216356
 ## 系统要求
 
 - Windows 10 / 11（64 位）
+- **不需要**安装 .NET（自包含单文件）
 - 解压后是这些：
 
 ```
 UniSac.exe        主程序
 IpaDic\           日语词典，罗马音注音靠它
+壁纸\             默认背景图（不想要整个删掉）
 使用说明.txt
 ```
 
@@ -94,14 +117,19 @@ IpaDic\           日语词典，罗马音注音靠它
 - 本项目仅供个人使用，请勿用于商业用途
 
 ---
+
 ## 常见问题
 
 **Q：我下的歌是 .kgm / .ncm 格式，播不了**
 
-A：那是加密格式，需要先转成普通格式（flac/mp3）。
+A：那是加密格式，需要先转成普通格式（flac / mp3）。
+
+---
 
 ## 关于这个仓库
 
 这里只放**说明和发布包**（Releases），源码不公开。
 
-有问题、想提功能，直接开 issue。问qq都行、会持续更新，这玩意是作者做来自己用的
+有问题、想提功能，直接开 issue，或者加 QQ 问都行。
+
+会持续更新——这玩意是作者做来自己用的，顺手就发了。
