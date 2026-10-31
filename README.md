@@ -1,7 +1,7 @@
 [README-GitHub.md](https://github.com/user-attachments/files/34208149/README-GitHub.md)
 # unisac 音乐播放器
 
-> 本地曲库的日语歌播放器。单文件 exe，解压双击就能用。
+> 本地曲库播放器。单文件 exe，解压双击就能用。
 
 作者qq号：3495216356
 ---
@@ -11,7 +11,7 @@
 **[→ 点这里下载最新版](https://github.com/3288132629-ctrl/UNISACR/releases/latest)**
 ⚠ **压缩包有解压密码：u114514QvQ!CR
 
-解压后双击 `UniSac.exe`。不需要安装，不需要 .NET。
+解压后双击 `UniSac.exe`。。
 
 ---
 
@@ -76,7 +76,6 @@ qq号：3495216356
 ## 系统要求
 
 - Windows 10 / 11（64 位）
-- **不需要**安装 .NET（自包含单文件）
 - 解压后是这些：
 
 ```
@@ -105,4 +104,4 @@ A：那是加密格式，需要先转成普通格式（flac/mp3）。
 
 这里只放**说明和发布包**（Releases），源码不公开。
 
-有问题、想提功能，直接开 issue。会持续更新，这玩意是作者做来自己用的
+有问题、想提功能，直接开 issue。问qq都行、会持续更新，这玩意是作者做来自己用的
